@@ -59,7 +59,7 @@ Power BI was used to create interactive dashboards, visualizing data through cha
 
 ## Interactive Dashboard
 Explore the interactive dashboard developed using Power BI for deeper insights:
-[![Dashboard Screenshot](![image](https://user-images.githubusercontent.com/125219883/219969990-00a7485e-5bf8-46b3-b255-c146972fc312.png)
+[![Dashboard Screenshot](https://user-images.githubusercontent.com/125219883/219969990-00a7485e-5bf8-46b3-b255-c146972fc312.png
 )](link-to-your-live-dashboard)
 
 *Note: To access the dashboard, you may need a Power BI license or permissions set by the creator.*
