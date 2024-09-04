@@ -1,4 +1,4 @@
-# video-games-sales-analysis
+# Video-Games-Sales-Analysis
 Sale Analysis of video games copies between 1980 and 2020. Data filtered with SQL, dashboard created using Power BI.
 
 Master data file gamesales_master_data
